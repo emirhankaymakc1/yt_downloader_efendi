@@ -6,6 +6,14 @@
 
 ---
 
+## 📥 EXE Dosyasını İndir
+
+🔽 [**Beta v0.1.1 (.exe)**](https://emirhankaymakcioglu.com.tr/apps/yt_gui_downloader_b_v0.1.1.exe)
+
+No install required – just download and run.
+
+---
+
 ## 🇹🇷 Özellikler (Türkçe)
 
 - Tek video veya çalma listesi indirimi
