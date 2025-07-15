@@ -74,6 +74,20 @@ yt_gui_downloader.py
 ```
 
 ---
+## 📥 Gereksinimler
+
+### 🔧 1. `yt-dlp.exe`
+
+Bu dosyayı indirin ve proje klasörüne yerleştirin:  
+➡️ [yt-dlp.exe (tıkla indir)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
+
+### 🔧 2. `ffmpeg`
+
+Windows için portable ffmpeg indirme:  
+➡️ [ffmpeg-release-essentials.zip](https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip)
+
+- İndirdikten sonra `bin` klasörü içindeki `ffmpeg.exe`, `ffplay.exe`, `ffprobe.exe` dosyalarını `ffmpeg/` klasörüne çıkar.
+- Veya bu dizini PATH'e ekleyebilirsin.
 
 ## 📂 Klasör Yapısı / Folder Structure
 
